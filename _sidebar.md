@@ -1,3 +1,9 @@
 - **Getting started**
 - [Introduction](/)
-- [Pages](pages.md)
+- [Basic Concepts](concepts.md)
+- [Rules](rules.md)
+- **Railway**
+- [Lines Management](lines.md)
+- [TrainCarts]()
+- [Stations]()
+- 

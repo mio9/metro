@@ -24,7 +24,7 @@ Optifine is a (personally) must-have mod that speeds up minecraft itself and pro
 - Shader Support
 
 Since it is a client side performance optimization mod, it can still be used (and is recommended to use) anywhere else, not just our server for better performance on minecraft itself
-
+[![](https://dabuttonfactory.com/button.png?t=Download+Optifine&f=Open+Sans-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=round&bgt=unicolored&bgc=3d85c6&shs=3&shc=444&sho=se)](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_E3.jar)
 #### Installation
 - Run any version of Minecraft 1.12 at least once
 - Download Optifine here: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_E3.jar
@@ -60,12 +60,17 @@ Update your resourcepack: cd into the PixRail resourcepack, then
 git pull
 ```
 
-## Entering
+## Joining
 
 As part of the CoreCrafted Network, we share the same ip with the main network cluster:
 
 ```
 mc.corecrafted.net
 ```
+- Click the compass, it will present you with an ugly server selector<br>
+![Ugly selector](https://i.imgur.com/x7qhY0E.png)
+- Click on the Rail Icon
+- **VIOLA!**
 
-**Whitelist is ENABLED** for PixRail Metro in this period. If you do not have whitelist access to the project yet, please contact me on [Discord](https://discord.gg/AgDKMgQ)
+> [!WARNING|label:Attention]
+> **Whitelist is ENABLED** for PixRail Metro in this period. If you do not have whitelist access to the project yet, please contact me on [Discord](https://discord.gg/AgDKMgQ)

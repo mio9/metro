@@ -1,3 +1,3 @@
-- Getting started
-  - [Home](/)
-  - [Pages](pages.md)
+- **Getting started**
+- [Introduction](/)
+- [Pages](pages.md)

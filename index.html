@@ -9,14 +9,15 @@
       name="viewport"
       content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
     />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+    <!-- <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css"> -->
   </head>
   <body>
     <div id="app"></div>
     <script>
       window.$docsify = {
-        name: "",
-        repo: "",
+        name: "PixRail Metro",
+        repo: "https://mio9.sh",
         loadSidebar: true,
         subMaxLevel: 3,
         coverpage: true,
@@ -26,7 +27,7 @@
           placeholder: 'Type to search',
           noData: 'No Results!',
           // Headline depth, 1 - 6
-          depth: 2,
+          depth: 1,
           hideOtherSidebarContent: false, // whether or not to hide other sidebar content
           // To avoid search index collision
           // between multiple websites under the same domain
@@ -44,5 +45,8 @@
     <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
     <script src="//unpkg.com/docsify-copy-code@2"></script>
     <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+    <!-- <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script> -->
+    <!-- <script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script> -->
   </body>
 </html>
